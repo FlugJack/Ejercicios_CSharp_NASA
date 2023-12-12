@@ -1,0 +1,14 @@
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\bin\Debug\net8.0\SubconjuntoLista.exe
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\bin\Debug\net8.0\SubconjuntoLista.deps.json
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\bin\Debug\net8.0\SubconjuntoLista.runtimeconfig.json
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\bin\Debug\net8.0\SubconjuntoLista.dll
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\bin\Debug\net8.0\SubconjuntoLista.pdb
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\obj\Debug\net8.0\SubconjuntoLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\obj\Debug\net8.0\SubconjuntoLista.AssemblyInfoInputs.cache
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\obj\Debug\net8.0\SubconjuntoLista.AssemblyInfo.cs
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\obj\Debug\net8.0\SubconjuntoLista.csproj.CoreCompileInputs.cache
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\obj\Debug\net8.0\SubconjuntoLista.dll
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\obj\Debug\net8.0\refint\SubconjuntoLista.dll
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\obj\Debug\net8.0\SubconjuntoLista.pdb
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\obj\Debug\net8.0\SubconjuntoLista.genruntimeconfig.cache
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\SubconjuntoLista\obj\Debug\net8.0\ref\SubconjuntoLista.dll

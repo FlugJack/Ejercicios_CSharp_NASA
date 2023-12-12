@@ -1,0 +1,14 @@
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\bin\Debug\net8.0\ComprimirCadena.exe
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\bin\Debug\net8.0\ComprimirCadena.deps.json
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\bin\Debug\net8.0\ComprimirCadena.runtimeconfig.json
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\bin\Debug\net8.0\ComprimirCadena.dll
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\bin\Debug\net8.0\ComprimirCadena.pdb
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\obj\Debug\net8.0\ComprimirCadena.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\obj\Debug\net8.0\ComprimirCadena.AssemblyInfoInputs.cache
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\obj\Debug\net8.0\ComprimirCadena.AssemblyInfo.cs
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\obj\Debug\net8.0\ComprimirCadena.csproj.CoreCompileInputs.cache
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\obj\Debug\net8.0\ComprimirCadena.dll
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\obj\Debug\net8.0\refint\ComprimirCadena.dll
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\obj\Debug\net8.0\ComprimirCadena.pdb
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\obj\Debug\net8.0\ComprimirCadena.genruntimeconfig.cache
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\ComprimirCadena\obj\Debug\net8.0\ref\ComprimirCadena.dll

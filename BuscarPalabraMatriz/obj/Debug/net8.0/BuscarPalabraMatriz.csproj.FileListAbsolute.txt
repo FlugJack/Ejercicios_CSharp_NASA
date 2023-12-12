@@ -1,0 +1,14 @@
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\bin\Debug\net8.0\BuscarPalabraMatriz.exe
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\bin\Debug\net8.0\BuscarPalabraMatriz.deps.json
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\bin\Debug\net8.0\BuscarPalabraMatriz.runtimeconfig.json
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\bin\Debug\net8.0\BuscarPalabraMatriz.dll
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\bin\Debug\net8.0\BuscarPalabraMatriz.pdb
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\obj\Debug\net8.0\BuscarPalabraMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\obj\Debug\net8.0\BuscarPalabraMatriz.AssemblyInfoInputs.cache
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\obj\Debug\net8.0\BuscarPalabraMatriz.AssemblyInfo.cs
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\obj\Debug\net8.0\BuscarPalabraMatriz.csproj.CoreCompileInputs.cache
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\obj\Debug\net8.0\BuscarPalabraMatriz.dll
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\obj\Debug\net8.0\refint\BuscarPalabraMatriz.dll
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\obj\Debug\net8.0\BuscarPalabraMatriz.pdb
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\obj\Debug\net8.0\BuscarPalabraMatriz.genruntimeconfig.cache
+D:\Documentos\Codigos\Ejercicios_CSharp_NASA\BuscarPalabraMatriz\obj\Debug\net8.0\ref\BuscarPalabraMatriz.dll
